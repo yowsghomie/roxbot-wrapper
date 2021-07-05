@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace roxbot_wrapper
 {
-    public class Class1
+    public class Core
     {
+
     }
 }
