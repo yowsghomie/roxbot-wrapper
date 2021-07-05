@@ -1,12 +1,6 @@
-﻿using roxbot_wrapper.Utils;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
+﻿using RoxbotWrapper.Utils;
 
-namespace roxbot_wrapper
+namespace RoxbotWrapper
 {
     public class Roxbot
     {

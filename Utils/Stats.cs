@@ -1,13 +1,7 @@
 ﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace roxbot_wrapper.Utils
+namespace RoxbotWrapper.Utils
 {
     public class Stats
     {
@@ -63,7 +57,6 @@ namespace roxbot_wrapper.Utils
                     result = res.time_played;
                     break;
             }
-
             return result;
         }
     }
